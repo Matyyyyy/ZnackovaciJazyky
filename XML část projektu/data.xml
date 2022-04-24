@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="zoo.xsl"?>
+<zoo xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zoo.xsd">
+<zvire id="1" kategorie="Vzacné zvíře" ohrozeni="Lehce" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>CR</zeme_narozeni>
+    <rok_narozeni>2000</rok_narozeni>
+    <jmeno>Hugo</jmeno>
+    <lokace>Pavilon východ</lokace>
+    <hlavni_chovatel>Petr Pavel</hlavni_chovatel>
+    <vedlejsi_chovatek>Klára Uzká</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Klarek Drtil</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Lev pustinný</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>kočkovití</celed>
+        <podceled>velké kočky</podceled>	
+        <druh>Lev pustinný</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="2" kategorie="Nevzácné zvíře" ohrozeni="Neohrožené" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>Austrálie</zeme_narozeni>
+    <rok_narozeni>2020</rok_narozeni>
+    <jmeno>Poet</jmeno>
+    <lokace>Pavilon západ</lokace>
+    <hlavni_chovatel>Natálie Králíková</hlavni_chovatel>
+    <vedlejsi_chovatek>Kakděj Zavod</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Krda Novák</specialista>
+    <krmeni>Kalorické</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Králík domácí</druh>
+    <vedecka_klasifikace_cz>
+        <rise>Živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>zajícovci</celed>
+        <podceled>zajícovití</podceled>	
+        <druh>Králík domácí</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="3" kategorie="Vzacné zvíře" ohrozeni="Lehce" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>Nigérie</zeme_narozeni>
+    <rok_narozeni>2001</rok_narozeni>
+    <jmeno>Dingo</jmeno>
+    <lokace>Pavilon východ</lokace>
+    <hlavni_chovatel>Petr Pavel</hlavni_chovatel>
+    <vedlejsi_chovatek>Klára Uzká</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Klarek Drtil</specialista>
+    <krmeni>Výživové</krmeni>
+    <potomci>Ne</potomci>
+    <kastrace>Ano</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Lev pustinný</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>kočkovití</celed>
+        <podceled>velké kočky</podceled>	
+        <druh>Lev pustinný</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="4" kategorie="Vzacné zvíře" ohrozeni="Lehce" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>Moldavsko</zeme_narozeni>
+    <rok_narozeni>2005</rok_narozeni>
+    <jmeno>Klarie</jmeno>
+    <lokace>Pavilon východ</lokace>
+    <hlavni_chovatel>Petr Pavel</hlavni_chovatel>
+    <vedlejsi_chovatek>Klára Uzká</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Klarek Drtil</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Uzavřený</vybeh>
+    <druh>Lev pustinný</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>kočkovití</celed>
+        <podceled>velké kočky</podceled>	
+        <druh>Lev pustinný</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="5" kategorie="Nevzácné zvíře" ohrozeni="Neohrožené" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>Rusko</zeme_narozeni>
+    <rok_narozeni>2019</rok_narozeni>
+    <jmeno>Poky</jmeno>
+    <lokace>Pavilon západ</lokace>
+    <hlavni_chovatel>Natálie Králíková</hlavni_chovatel>
+    <vedlejsi_chovatek>Kakděj Zavod</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Krda Novák</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ne</potomci>
+    <kastrace>Ano</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Králík domácí</druh>
+    <vedecka_klasifikace_cz>
+        <rise>Živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>zajícovci</celed>
+        <podceled>zajícovití</podceled>	
+        <druh>Králík domácí</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="6" kategorie="Vzacné zvíře" ohrozeni="Středně" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>Uzbekistán</zeme_narozeni>
+    <rok_narozeni>2012</rok_narozeni>
+    <jmeno>Pajka</jmeno>
+    <lokace>Pavilon Jih</lokace>
+    <hlavni_chovatel>Vladimír Liška</hlavni_chovatel>
+    <vedlejsi_chovatek>Martin Orch</vedlejsi_chovatek>
+    <veterinar>Martin Orch</veterinar>
+    <specialista>Kokrat Margarin</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Žirafa</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>sudokopytníci</rad>
+        <celed>přežvýkaví</celed>
+        <podceled>žirafovití</podceled>	
+        <druh>Žirafa</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="7" kategorie="Vzacné zvíře" ohrozeni="Středně" podpurnyprogram="Ano" stav="Mrtvé">
+    <zeme_narozeni>Slovensko</zeme_narozeni>
+    <rok_narozeni>2010</rok_narozeni>
+    <jmeno>Kraka</jmeno>
+    <lokace>Pavilon Jih</lokace>
+    <hlavni_chovatel>Vladimír Liška</hlavni_chovatel>
+    <vedlejsi_chovatek>Martin Orch</vedlejsi_chovatek>
+    <veterinar>Martin Orch</veterinar>
+    <specialista>Kokrat Margarin</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ne</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Žirafa</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>sudokopytníci</rad>
+        <celed>přežvýkaví</celed>
+        <podceled>žirafovití</podceled>	
+        <druh>Žirafa</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="8" kategorie="Nevzácné zvíře" ohrozeni="Neohrožené" podpurnyprogram="Ne" stav="Živé">
+    <zeme_narozeni>CR</zeme_narozeni>
+    <rok_narozeni>2020</rok_narozeni>
+    <jmeno>Diez</jmeno>
+    <lokace>Pavilon západ</lokace>
+    <hlavni_chovatel>Natálie Králíková</hlavni_chovatel>
+    <vedlejsi_chovatek>Kakděj Zavod</vedlejsi_chovatek>
+    <veterinar>Matyáš Ohm</veterinar>
+    <specialista>Krda Novák</specialista>
+    <krmeni>Klasické</krmeni>
+    <potomci>Ne</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Králík domácí</druh>
+    <vedecka_klasifikace_cz>
+        <rise>Živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>šelmy</rad>
+        <celed>zajícovci</celed>
+        <podceled>zajícovití</podceled>	
+        <druh>Králík domácí</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="9" kategorie="Vzacné zvíře" ohrozeni="Středně" podpurnyprogram="Ano" stav="Živé">
+    <zeme_narozeni>CR</zeme_narozeni>
+    <rok_narozeni>2012</rok_narozeni>
+    <jmeno>Kiki</jmeno>
+    <lokace>Pavilon Jih</lokace>
+    <hlavni_chovatel>Vladimír Liška</hlavni_chovatel>
+    <vedlejsi_chovatek>Martin Orch</vedlejsi_chovatek>
+    <veterinar>Martin Orch</veterinar>
+    <specialista>Kokrat Margarin</specialista>
+    <krmeni>Kalorické</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Žirafa</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>sudokopytníci</rad>
+        <celed>přežvýkaví</celed>
+        <podceled>žirafovití</podceled>	
+        <druh>Žirafa</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+<zvire id="10" kategorie="Vzacné zvíře" ohrozeni="Středně" podpurnyprogram="Ne" stav="Živé">
+    <zeme_narozeni>CR</zeme_narozeni>
+    <rok_narozeni>2013</rok_narozeni>
+    <jmeno>Kinguei</jmeno>
+    <lokace>Pavilon Jih</lokace>
+    <hlavni_chovatel>Vladimír Liška</hlavni_chovatel>
+    <vedlejsi_chovatek>Karel Vomáška</vedlejsi_chovatek>
+    <veterinar>Kurdan Horst</veterinar>
+    <specialista>Majk Pajkl</specialista>
+    <krmeni>Dieta</krmeni>
+    <potomci>Ano</potomci>
+    <kastrace>Ne</kastrace>
+    <vybeh>Volny</vybeh>
+    <druh>Žirafa</druh>
+    <vedecka_klasifikace_cz>
+        <rise>živočichové</rise>
+        <kmen>strunatci</kmen>
+        <trida>savci</trida>
+        <rad>sudokopytníci</rad>
+        <celed>přežvýkaví</celed>
+        <podceled>žirafovití</podceled>	
+        <druh>Žirafa</druh>
+    </vedecka_klasifikace_cz>
+</zvire>
+</zoo>
